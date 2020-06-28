@@ -1,2 +1,2 @@
-# Test-Python-Manatal
-Python Test Manatal
+# Test Python Ex1 Manatal
+Python Test Manatal Ex 1
